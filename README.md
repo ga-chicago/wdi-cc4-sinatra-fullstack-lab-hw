@@ -32,7 +32,7 @@ For a few sections, generally ones with new information, the code is not hidden.
 ```ruby
 source 'https://rubygems.org'
 
-gem 'pg', '0.21'
+gem 'pg'
 gem 'sinatra'
 gem 'sinatra-activerecord'
 gem 'json'
